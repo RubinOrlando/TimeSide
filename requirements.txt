@@ -179,3 +179,4 @@ wrapt==1.11.2
 xmljson==0.2.0
 youtube-dl==2020.3.1
 zipp==2.2.0
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
