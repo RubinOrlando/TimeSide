@@ -68,7 +68,7 @@ jupyter-console==6.1.0
 jupyter-core==4.6.2
 jupyter-telemetry==0.0.5
 jupyterhub==1.1.0
-jupyterlab==1.2.6
+jupyterlab==3.6.7
 jupyterlab-server==1.0.6
 jupyterthemes==0.20.0
 Keras-Applications==1.0.8
@@ -105,7 +105,7 @@ parso==0.6.1
 pathtools==0.1.2
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==7.0.0
+Pillow==10.2.0
 ply==3.11
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
