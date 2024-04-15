@@ -2,7 +2,7 @@
   "name": "quematech",
   "version": "1.0.0",
   "dependencies": {
-    "grunt-replace": "^0.7.8"
+    "grunt-replace": "^2.0.0"
   },
   "devDependencies": {
     "chai": "~1.9.0",
@@ -30,7 +30,7 @@
     "grunt-groundskeeper": "^0.1.10",
     "grunt-open": "~0.2.3",
     "grunt-preprocess": "^4.0.0",
-    "grunt-replace": "^0.7.7",
+    "grunt-replace": "^2.0.0",
     "grunt-requirejs": "^0.4.2",
     "grunt-rev": "~0.1.0",
     "grunt-shell": "^0.7.0",
